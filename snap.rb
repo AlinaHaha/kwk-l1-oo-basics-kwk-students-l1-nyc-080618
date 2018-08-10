@@ -35,6 +35,8 @@ class Snapchat
     print "NOOOOOOOO!!!!"
     elsif talk to Danielle
     print "meow"
+  else
+    "Yes, save to memories and add to story"
     
   
 end
