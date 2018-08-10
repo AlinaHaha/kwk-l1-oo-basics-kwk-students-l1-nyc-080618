@@ -31,6 +31,15 @@ class Snapchat
     puts "Your current Streak Score is #{@@score}"
   end
   
+  if streak dies
+    print "NOOOOOOOO!!!!"
+    elsif talk to Danielle
+    print "meow"
+  else
+    "Yes, save to memories and add to story"
+  end 
+    
+  
 end
 
 Alina= Snapchat.new
