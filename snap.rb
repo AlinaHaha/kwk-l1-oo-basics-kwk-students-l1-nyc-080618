@@ -37,6 +37,7 @@ class Snapchat
     print "meow"
   else
     "Yes, save to memories and add to story"
+  end 
     
   
 end
